@@ -9,3 +9,6 @@ Among my proudest contributions are projects like [PocketFlow](https://github.co
 What keeps me motivated is not just the technology, but the underlying philosophy of system design: the challenge of architecting solutions that are robust, elegant, and scalable in the unpredictable world of the cloud. Off the clock, you’ll find me geeking out over the latest in cloud performance, tuning generative models, or unwinding with the evocative tunes of Yorushika.
 
 In short, I’m a cloud enthusiast, a performance chaser, a Gen AI explorer—and always searching for the next big idea to build or optimize.
+
+## Certificates & Trainings
+![aws ai cloudpractitioner](./badges/aws-certified-solutions-architect-associate.png)
